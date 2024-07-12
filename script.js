@@ -1,4 +1,4 @@
-const arr = [ ];
+const arr = [1, 2, 3, 4, 1, 0, 2, 2];
 
 function divide(arr, n) {
   // Write your code here
@@ -26,4 +26,4 @@ function divide(arr, n) {
 }
 
 const n = prompt("Enter n: ");
-alert(divide(arr, n)));
+alert(divide(arr, n));
